@@ -1,0 +1,35 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmp_lpd8i60
+  Lower bound: 44437022312.71931
+  Upper bound: 44437022312.71931
+  Number of objectives: 1
+  Number of constraints: 3287047
+  Number of variables: 4730418
+  Number of nonzeros: 16982209
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 226.92
+  Termination condition: optimal
+  Termination message: MIP - Integer optimal solution\x3a Objective = 4.4437022313e+10
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 241.99550795555115
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0

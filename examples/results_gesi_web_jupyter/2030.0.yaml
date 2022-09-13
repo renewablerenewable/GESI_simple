@@ -1,0 +1,31 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmp3yt6ktxi
+  Lower bound: -inf
+  Upper bound: inf
+  Number of objectives: 1
+  Number of constraints: 3260767
+  Number of variables: 4712898
+  Number of nonzeros: 16929649
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 438.44
+  Termination condition: optimal
+  Termination message: Primal simplex - Optimal\x3a Objective = 4.4702746956e+10
+  Error rc: 0
+  Time: 457.7228491306305
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0

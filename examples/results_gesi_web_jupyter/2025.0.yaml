@@ -1,0 +1,31 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmprute7geb
+  Lower bound: -inf
+  Upper bound: inf
+  Number of objectives: 1
+  Number of constraints: 3260767
+  Number of variables: 4712898
+  Number of nonzeros: 16929649
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 547.17
+  Termination condition: optimal
+  Termination message: Dual simplex - Optimal\x3a Objective = 4.6796542881e+10
+  Error rc: 0
+  Time: 565.9534287452698
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0

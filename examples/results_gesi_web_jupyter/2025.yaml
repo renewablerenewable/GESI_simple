@@ -1,0 +1,31 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpnqguiafj
+  Lower bound: 80485356002.2861
+  Upper bound: 80485356002.2861
+  Number of objectives: 1
+  Number of constraints: 3260765
+  Number of variables: 4712898
+  Number of nonzeros: 16929643
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 69.83
+  Termination condition: optimal
+  Termination message: Dual simplex - Optimal\x3a Objective = 8.0485356002e+10
+  Error rc: 0
+  Time: 88.31203889846802
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0

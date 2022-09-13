@@ -1,0 +1,35 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpfz2mgom0
+  Lower bound: 53738965425.967026
+  Upper bound: 53738965425.967026
+  Number of objectives: 1
+  Number of constraints: 3287047
+  Number of variables: 4730418
+  Number of nonzeros: 16982209
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 596.98
+  Termination condition: optimal
+  Termination message: MIP - Integer optimal solution\x3a Objective = 5.3738965426e+10
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 612.3586509227753
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0

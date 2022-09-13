@@ -1,0 +1,35 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpzf8nu21m
+  Lower bound: 74493224411.94275
+  Upper bound: 74493224411.94275
+  Number of objectives: 1
+  Number of constraints: 3287045
+  Number of variables: 4730418
+  Number of nonzeros: 16982203
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 84.02
+  Termination condition: optimal
+  Termination message: MIP - Integer optimal solution\x3a Objective = 7.4493224412e+10
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 99.13260507583618
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0

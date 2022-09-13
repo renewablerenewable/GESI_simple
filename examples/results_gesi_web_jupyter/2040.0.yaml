@@ -1,0 +1,35 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpddfnvh9p
+  Lower bound: 56421836951.72054
+  Upper bound: 56421836951.72054
+  Number of objectives: 1
+  Number of constraints: 3287047
+  Number of variables: 4730418
+  Number of nonzeros: 16982209
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 592.38
+  Termination condition: optimal
+  Termination message: MIP - Integer optimal solution\x3a Objective = 5.6421836952e+10
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 606.8262059688568
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0
