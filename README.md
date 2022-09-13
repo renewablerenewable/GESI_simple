@@ -44,7 +44,7 @@ $ conda install pandas openpyxl jupyter
 
 ## Running Gesi Model
 It is possible to look up example code for running default Gesi Model using Sector_coupling_data_2_gesi.xlsx data in `examples/` directory.<br>
-The code below is `examples/gesi.py`.
+The code below is `examples/gesi_web.py`.
 
 ```
 """
