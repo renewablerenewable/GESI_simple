@@ -1,0 +1,74 @@
+{
+    "representation": [
+        "el_demand",
+        "Nuke",
+        "WT",
+        "PV",
+        "other",
+        "PP",
+        "CHP",
+        "Fcell",
+        "NG_PP",
+        "coal_PP",
+        "battery_out",
+        "pumped_out",
+        "P2H",
+        "battery_in",
+        "pumped_in",
+        "E_boiler",
+        "DH_Boiler",
+        "EV",
+        "electrolysis",
+        "curtail",
+        "pumped_soc",
+        "battery_soc",
+        "LNG",
+        "coal_consumption",
+        "NG_consumption"
+    ],
+    "H_representation": [
+        "heat_demand",
+        "CHP_h",
+        "Fcell_h",
+        "DH_HP_h",
+        "DH_Boiler",
+        "E_boiler_h",
+        "SOC_th",
+        "dis_th",
+        "ch_th"
+    ],
+    "G_representation": [
+        "gas_demand",
+        "gas_production",
+        "CHP",
+        "Fcell",
+        "PP",
+        "gas_charging",
+        "gas_discharging",
+        "gas_SOC",
+        "LNG_consumption"
+    ],
+    "digits": [
+        "em_power",
+        "em_heat_r",
+        "em_heat_c",
+        "em_tr",
+        "em_ind",
+        "curtailment",
+        "RE_share_p"
+    ],
+    "ind_h": [
+        "SOC_ind",
+        "dis_ind",
+        "charge_ind",
+        "E_heat_sm",
+        "EL_demand_ind_h"
+    ],
+    "economic": [
+        "investment",
+        "fixed_operation",
+        "v_operation",
+        "fuel",
+        "em_cost"
+    ]
+}
