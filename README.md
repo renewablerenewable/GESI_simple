@@ -6,14 +6,6 @@ power plants. <br>
 <br>
 This project is powered by Green Energy Strategy Institute(GESI) and (c) Entropy Paradox<br>
 
-## Package Structure
-`data/` : Contains Sector_coupling_data_2_XXXX.xlsx datasets<br>
-`data_preprocessing/`: Constains data preprocessors. Not directly used.<br>
-`examples/`: Contains example codes for running Gesi Model<br>
-`gams_original/`: Direct conversion from gams to pyomo<br>
-`gesi_model/`: Main source directory for Gesi Model Project <br>
-`multiple_models/`: Another way of implementation for pre-made multiple model<br>
-`notebook/`: Miscellaneous notebook file used for brainstorming and testing during implementing gesi model<br>
 
 ## Setting up Environment
 - Create Virtual Environment
