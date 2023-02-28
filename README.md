@@ -3,7 +3,7 @@
 ## Introduction
 The Gesi_simple Model is designed to model future decarbonization energy scenarios in Korea across all energy sectors. This simplified version of the GESI_sector coupling model, previously utilized in 'Deep Decarbonization of Korea's Energy System', offers a number of benefits, most notably in its ease of use. Users can select scenario parameters using the Excel interface, and the model will present scenario results in Excel format. <br>
 <br>
-This project is powered by Green Energy Strategy Institute(GESI) and (c) Entropy Paradox<br>
+This project is powered by Green Energy Strategy Institute(GESI) <br>
 
 
 ## Setting up Environment
